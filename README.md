@@ -10,5 +10,5 @@ ruby 2.2.2
   
   
   
-* 名前欄集計　　　　動作未確認
-     * a0_kote_html.rb
+* 名前欄集計　　　　動作未確認  
+      * a0_kote_html.rb
